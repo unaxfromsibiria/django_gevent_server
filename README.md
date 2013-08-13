@@ -1,7 +1,7 @@
 Dependencies
 =====
-- `psutil https://pypi.python.org/pypi/psutil`_
-- `procname https://pypi.python.org/pypi/procname/`_
+- `psutil <https://pypi.python.org/pypi/psutil>`_
+- `procname <https://pypi.python.org/pypi/procname/>`_
 
 Usage
 =====
