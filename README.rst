@@ -7,7 +7,7 @@ Usage
 =====
 Append this application to INSTALLED_APPS
 
-Create configuration section in django settings
+Create configuration section in django settings::
 
 	GEVENT_SERVER = {
 	    'host': '127.0.0.1',
@@ -24,7 +24,7 @@ And run web-server:
 
 will create 3 fork on each port: 8880, 8881, 8882
 
-You can create function for background processing like this:
+You can create function for background processing like this::
 
 	def warm_cache(uid):
 	    # create once subprocess
